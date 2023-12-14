@@ -82,3 +82,5 @@ The graphical interface is implemented using Tkinter and allows users to upload 
 *Note:*
 Ensure that the required libraries and dependencies are installed before running the script.
 The haarcascade_frontalface_default.xml file is crucial for face detection before emotion prediction.
+
+**Dataset Link:** https://www.kaggle.com/datasets/ananthu017/emotion-detection-fer/
