@@ -1,4 +1,5 @@
 ***Project Title: Emotion Detection Model***
+
 **Overview:**
 This project focuses on building an emotion detection model using Convolutional Neural Networks (CNNs) to classify facial expressions into seven different emotions: Angry, Disgust, Fear, Happy, Neutral, Sad, and Surprise. The model is trained on a dataset of facial expression images and implemented using the TensorFlow and Keras frameworks.
 
